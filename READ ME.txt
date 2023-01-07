@@ -1,0 +1,6 @@
+Our client is planning to open a new branch of his business in America. 
+His business sells cloth.
+We as data analytics were asked to suggest based on the analysis which 
+area of America is best to open his shop.
+
+The Detailed gameplan is determined in a PDF file.
